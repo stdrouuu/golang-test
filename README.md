@@ -11,23 +11,14 @@
     go run main.go
     ```
 
-## Project Structure
-
-```
-golang-test/
-├── main.go
-├── README.md
-└── ...
-```
-
 ## Requirements
 
 - [Go](https://golang.org/dl/) 1.18 or higher
 
-## Contributing
-
-Feel free to open issues or submit pull requests.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
+
+This license is suitable for Go (Golang) projects and allows reuse, modification, and distribution with proper attribution.
